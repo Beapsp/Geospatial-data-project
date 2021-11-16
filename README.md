@@ -1,14 +1,14 @@
 # Proyecto3_GeoQ
-![imagen](imagen_ubicación.JFIF)
+![imagen](imag.jpg)
 
 OBJETIVO:
 Tenemos como objetivo para este proyecto, encontrar la ubicación perfecta para la sede de una nueva empresa, siguiendo una serie de requisitos esenciales teniendo en cuenta el tipo de empleados de dicha empresa.
 
 EJECUCIÓN:
 Para conseguir dicho objetivo, los requisitos que he tenido en cuenta como detonante para la decisión final de ubicación son los siguientes:
--- La mayoría de los empleados tienen al menos un hijo, por lo que necesitarán una guardería cercana.
--- Uno de los jefes necesita viajar frecuentemente por lo que necesitará un aeropuerto cerca.
--- La mayoría de los trabajadors tienen edades comprendidas entre 25 y 40 años por lo que es preferible que estén ubicados cerca de zonas de ocio, tipo pub.
+- La mayoría de los empleados tienen al menos un hijo, por lo que necesitarán una guardería cercana.
+- Uno de los jefes necesita viajar frecuentemente por lo que necesitará un aeropuerto cerca.
+- La mayoría de los trabajadores tienen edades comprendidas entre 25 y 40 años por lo que es preferible que estén ubicados cerca de zonas de ocio, tipo pub.
 -- El CEO de la empresa es vegano, por lo que necesitará restaurantes con este tipo de comida cerca.
 
 Para aplicar estos requisitos y poder hacer una comparativa de estos criterios de elección, he escogido 3 ciudades, que considero que tienen muchas diferencias en cuanto a demografía, situación, climatología, industria, turismo, etc **Madrid, Mallorca y Salamanca**.
