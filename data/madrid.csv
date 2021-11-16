@@ -1,0 +1,68 @@
+,nombre,latitud,longitud,location,categoria
+0,Aeropuerto Adolfo Suárez Madrid-Barajas (MAD) (Aeropuerto Adolfo Suárez Madrid-Barajas),40.4902221628413,-3.569434148638026,"{'type': 'Point', 'coordinates': [40.4902221628413, -3.569434148638026]}",Airport
+2,Metro Aeropuerto T1-T2-T3,40.4682787651721,-3.5712555983647887,"{'type': 'Point', 'coordinates': [40.4682787651721, -3.5712555983647887]}",Airport
+4,Parada Plaza De Cibeles - Línea Exprés Aeropuerto,40.41904743901457,-3.6929536955596918,"{'type': 'Point', 'coordinates': [40.41904743901457, -3.6929536955596918]}",Airport
+5,Aeropuerto Madrid Barajas,40.43205988,-3.67991485,"{'type': 'Point', 'coordinates': [40.43205988, -3.67991485]}",Airport
+12,Aeropuerto Madrid-gelate,40.422891164759484,-3.700950360134022,"{'type': 'Point', 'coordinates': [40.422891164759484, -3.700950360134022]}",Airport
+0,Discoteca Nells Madrid,40.439664,-3.682127,"{'type': 'Point', 'coordinates': [40.439664, -3.682127]}",Disco
+1,Discoteca Palace,40.41845097923313,-3.709102297872028,"{'type': 'Point', 'coordinates': [40.41845097923313, -3.709102297872028]}",Disco
+2,Discoteca Almontes Sala Rociera,40.43279897,-3.67872521,"{'type': 'Point', 'coordinates': [40.43279897, -3.67872521]}",Disco
+3,Discoteca Marmara,40.45789550901653,-3.685939460577314,"{'type': 'Point', 'coordinates': [40.45789550901653, -3.685939460577314]}",Disco
+4,la cubana discoteca,40.450147,-3.695196,"{'type': 'Point', 'coordinates': [40.450147, -3.695196]}",Disco
+5,Discoteca BAO-BAB Madrid,40.453919368184145,-3.6776626110076904,"{'type': 'Point', 'coordinates': [40.453919368184145, -3.6776626110076904]}",Disco
+6,discoteca sueño latino,40.45590105398211,-3.701138648753884,"{'type': 'Point', 'coordinates': [40.45590105398211, -3.701138648753884]}",Disco
+7,NASAU DISCOTECA,40.437965,-3.68022,"{'type': 'Point', 'coordinates': [40.437965, -3.68022]}",Disco
+8,Restaurante Macadamia - Discoteca Graf,40.43755935428585,-3.6811005765048357,"{'type': 'Point', 'coordinates': [40.43755935428585, -3.6811005765048357]}",Disco
+9,Discoteca Sueños,40.457673665790686,-3.7012377483088637,"{'type': 'Point', 'coordinates': [40.457673665790686, -3.7012377483088637]}",Disco
+10,Discoteca Bowi,40.43142163713691,-3.7103932749596424,"{'type': 'Point', 'coordinates': [40.43142163713691, -3.7103932749596424]}",Disco
+11,Discoteca Inn,40.436040037217424,-3.716651440245205,"{'type': 'Point', 'coordinates': [40.436040037217424, -3.716651440245205]}",Disco
+12,Discoteca Cocón,40.420440673828125,-3.7048256397247314,"{'type': 'Point', 'coordinates': [40.420440673828125, -3.7048256397247314]}",Disco
+13,Discoteca New Tropic Costa Getafe,40.31035435292917,-3.7251610991554025,"{'type': 'Point', 'coordinates': [40.31035435292917, -3.7251610991554025]}",Disco
+14,Discoteca bandala,40.417223213590525,-3.700266581037412,"{'type': 'Point', 'coordinates': [40.417223213590525, -3.700266581037412]}",Disco
+15,Discoteca Velvet Madrid,40.4203458,-3.7077554,"{'type': 'Point', 'coordinates': [40.4203458, -3.7077554]}",Disco
+16,Discoteca Robusto,40.42554,-3.663887,"{'type': 'Point', 'coordinates': [40.42554, -3.663887]}",Disco
+17,Discoteca Swing,40.4697831,-3.6927604,"{'type': 'Point', 'coordinates': [40.4697831, -3.6927604]}",Disco
+18,Discoteca Restaurante Colonial Norte,40.42120211777276,-3.720337853145953,"{'type': 'Point', 'coordinates': [40.42120211777276, -3.720337853145953]}",Disco
+19,Discoteca Torero,40.41485454681738,-3.702705127902705,"{'type': 'Point', 'coordinates': [40.41485454681738, -3.702705127902705]}",Disco
+20,Discoteca Bullion,40.40687,-3.692785,"{'type': 'Point', 'coordinates': [40.40687, -3.692785]}",Disco
+21,Discoteca Azúcar,40.40677809286291,-3.6831193104656146,"{'type': 'Point', 'coordinates': [40.40677809286291, -3.6831193104656146]}",Disco
+22,Discoteca Fantasy,40.398552526608334,-3.7184889812419293,"{'type': 'Point', 'coordinates': [40.398552526608334, -3.7184889812419293]}",Disco
+23,Discoteca abuelillos,40.3927558412193,-3.6982846648423813,"{'type': 'Point', 'coordinates': [40.3927558412193, -3.6982846648423813]}",Disco
+24,Discoteca Ole Con Ole,40.40984709228721,-3.713255626875117,"{'type': 'Point', 'coordinates': [40.40984709228721, -3.713255626875117]}",Disco
+25,Gres Discoteca,40.434641628955546,-3.717345803097475,"{'type': 'Point', 'coordinates': [40.434641628955546, -3.717345803097475]}",Disco
+26,Discoteca,40.475777,-3.844597,"{'type': 'Point', 'coordinates': [40.475777, -3.844597]}",Disco
+27,Discoteca Vibriet,40.44028,-3.785202,"{'type': 'Point', 'coordinates': [40.44028, -3.785202]}",Disco
+28,La Nuit Summertime,40.448908968322655,-3.695329046143475,"{'type': 'Point', 'coordinates': [40.448908968322655, -3.695329046143475]}",Disco
+29,Discoteca Samoa,40.20646300592232,-3.8300968716387853,"{'type': 'Point', 'coordinates': [40.20646300592232, -3.8300968716387853]}",Disco
+0,Vegan Streets Madrid Castellana,40.4424564,-3.679973,"{'type': 'Point', 'coordinates': [40.4424564, -3.679973]}",Vegan
+1,Vegan Streets Madrid Centro,40.4175117,-3.6976358,"{'type': 'Point', 'coordinates': [40.4175117, -3.6976358]}",Vegan
+2,vegetarian / vegan restaurant,40.432974,-3.686693,"{'type': 'Point', 'coordinates': [40.432974, -3.686693]}",Vegan
+3,Mad Mad Vegan,40.424183,-3.7007315,"{'type': 'Point', 'coordinates': [40.424183, -3.7007315]}",Vegan
+4,Los Andenes Vegan,40.435206,-3.710348,"{'type': 'Point', 'coordinates': [40.435206, -3.710348]}",Vegan
+5,Vegan bistro,40.41941020023746,-3.679066382765086,"{'type': 'Point', 'coordinates': [40.41941020023746, -3.679066382765086]}",Vegan
+6,Delish Vegan Doughnuts,40.425026,-3.701933,"{'type': 'Point', 'coordinates': [40.425026, -3.701933]}",Vegan
+7,THUNDER VEGAN FOOD,40.42445,-3.702513,"{'type': 'Point', 'coordinates': [40.42445, -3.702513]}",Vegan
+8,Mad Mad Vegan,40.411118,-3.7029,"{'type': 'Point', 'coordinates': [40.411118, -3.7029]}",Vegan
+9,Delish Vegan Doughnuts,40.42694912512703,-3.7100989203246573,"{'type': 'Point', 'coordinates': [40.42694912512703, -3.7100989203246573]}",Vegan
+10,Green Break Vegan Take Away,40.41374928145229,-3.713475465774536,"{'type': 'Point', 'coordinates': [40.41374928145229, -3.713475465774536]}",Vegan
+11,pura vida vegan bar,40.41020847303393,-3.709029348112721,"{'type': 'Point', 'coordinates': [40.41020847303393, -3.709029348112721]}",Vegan
+12,Lombarda Vegana,40.426772,-3.698705,"{'type': 'Point', 'coordinates': [40.426772, -3.698705]}",Vegan
+13,Vegan Rock,40.364865,-3.550834,"{'type': 'Point', 'coordinates': [40.364865, -3.550834]}",Vegan
+14,El Templo Vegano,40.426277,-3.6993492,"{'type': 'Point', 'coordinates': [40.426277, -3.6993492]}",Vegan
+16,Veganovias,40.462573,-3.614641,"{'type': 'Point', 'coordinates': [40.462573, -3.614641]}",Vegan
+17,La Vegana de Madrid,40.45738604044665,-3.6514153171630985,"{'type': 'Point', 'coordinates': [40.45738604044665, -3.6514153171630985]}",Vegan
+19,Distrito Vegano,40.40697203771007,-3.6996788206851368,"{'type': 'Point', 'coordinates': [40.40697203771007, -3.6996788206851368]}",Vegan
+20,Planeta Vegano,40.410285211735406,-3.7005242358441492,"{'type': 'Point', 'coordinates': [40.410285211735406, -3.7005242358441492]}",Vegan
+21,Vegania Veggie Bar,40.385241,-3.747971,"{'type': 'Point', 'coordinates': [40.385241, -3.747971]}",Vegan
+22,Planeta Vegano,40.40853387654168,-3.700900810613643,"{'type': 'Point', 'coordinates': [40.40853387654168, -3.700900810613643]}",Vegan
+23,productos latinos. Vegana,40.42533166982279,-3.655518984455329,"{'type': 'Point', 'coordinates': [40.42533166982279, -3.655518984455329]}",Vegan
+24,Alimentación Vegana,40.4224956,-3.6553774,"{'type': 'Point', 'coordinates': [40.4224956, -3.6553774]}",Vegan
+25,Dolce & Vegana,40.413803,-3.717875,"{'type': 'Point', 'coordinates': [40.413803, -3.717875]}",Vegan
+26,Mi Cabra Vegana,40.43714051642714,-3.641946315765381,"{'type': 'Point', 'coordinates': [40.43714051642714, -3.641946315765381]}",Vegan
+27,La Dimensión Vegana,40.40728877702829,-3.6739728746243916,"{'type': 'Point', 'coordinates': [40.40728877702829, -3.6739728746243916]}",Vegan
+28,La Vegana Vallekana,40.396416,-3.6677861,"{'type': 'Point', 'coordinates': [40.396416, -3.6677861]}",Vegan
+29,Encuentro Vegano,40.406691,-3.639279,"{'type': 'Point', 'coordinates': [40.406691, -3.639279]}",Vegan
+0,Guarderia San Nicolas,40.421913,-3.668392,"{'type': 'Point', 'coordinates': [40.421913, -3.668392]}",Nursery
+1,Guardería San Roque,40.38952195045214,-3.736509681444763,"{'type': 'Point', 'coordinates': [40.38952195045214, -3.736509681444763]}",Nursery
+2,guarderia Santa Catalina,40.45831623949731,-3.779060928341933,"{'type': 'Point', 'coordinates': [40.45831623949731, -3.779060928341933]}",Nursery
+3,Guarderia santa isabel,40.542531541270264,-3.63734897178375,"{'type': 'Point', 'coordinates': [40.542531541270264, -3.63734897178375]}",Nursery

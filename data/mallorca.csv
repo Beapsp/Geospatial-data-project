@@ -1,0 +1,55 @@
+,nombre,latitud,longitud,location,categoria,ciudad
+0,Aeropuerto de Mallorca,39.547252019169925,2.73001133582378,"{'type': 'Point', 'coordinates': [39.547252019169925, 2.73001133582378]}",Airport,Mallorca
+0,Pub Sa Feixina,39.571897,2.640197,"{'type': 'Point', 'coordinates': [39.571897, 2.640197]}",Disco,Mallorca
+1,Pub Micros,39.57414075097522,2.640633773891098,"{'type': 'Point', 'coordinates': [39.57414075097522, 2.640633773891098]}",Disco,Mallorca
+2,Pub Corner,39.57278329623181,2.6404495519057094,"{'type': 'Point', 'coordinates': [39.57278329623181, 2.6404495519057094]}",Disco,Mallorca
+3,Pub Indigno,39.574172,2.640494,"{'type': 'Point', 'coordinates': [39.574172, 2.640494]}",Disco,Mallorca
+4,Pub Chapeau,39.57350931161781,2.6435422897338867,"{'type': 'Point', 'coordinates': [39.57350931161781, 2.6435422897338867]}",Disco,Mallorca
+5,El Pub del Click,39.572226781417086,2.6419462921643766,"{'type': 'Point', 'coordinates': [39.572226781417086, 2.6419462921643766]}",Disco,Mallorca
+6,Café-Pub Belle Epoque,39.57479327,2.6454261285714287,"{'type': 'Point', 'coordinates': [39.57479327, 2.6454261285714287]}",Disco,Mallorca
+7,Lennox Pub,39.567853895629916,2.6458932952776304,"{'type': 'Point', 'coordinates': [39.567853895629916, 2.6458932952776304]}",Disco,Mallorca
+8,Sindi's Pub,39.565268472268585,2.6271251082644405,"{'type': 'Point', 'coordinates': [39.565268472268585, 2.6271251082644405]}",Disco,Mallorca
+9,McOwans Pub,39.56621468067169,2.646782398223877,"{'type': 'Point', 'coordinates': [39.56621468067169, 2.646782398223877]}",Disco,Mallorca
+10,Pub Arny,39.5675697137805,2.659922930604507,"{'type': 'Point', 'coordinates': [39.5675697137805, 2.659922930604507]}",Disco,Mallorca
+11,Pub Tony's,39.58280094396122,2.658298222214979,"{'type': 'Point', 'coordinates': [39.58280094396122, 2.658298222214979]}",Disco,Mallorca
+12,isi pub,39.567120148806524,2.6268046046218365,"{'type': 'Point', 'coordinates': [39.567120148806524, 2.6268046046218365]}",Disco,Mallorca
+13,Status Pub,39.56363582766825,2.625917700119777,"{'type': 'Point', 'coordinates': [39.56363582766825, 2.625917700119777]}",Disco,Mallorca
+14,Hogan's Bar & Restaurant,39.56903991099882,2.6346734716955886,"{'type': 'Point', 'coordinates': [39.56903991099882, 2.6346734716955886]}",Disco,Mallorca
+15,Rose & Crown Pub,39.5106132477194,2.5399768352508545,"{'type': 'Point', 'coordinates': [39.5106132477194, 2.5399768352508545]}",Disco,Mallorca
+0,Sabores de Sandra VEGAN Restaurant,39.5770042,2.6377468,"{'type': 'Point', 'coordinates': [39.5770042, 2.6377468]}",Vegan,Mallorca
+1,Vegan & Raw,39.57587445446343,2.6486116647720337,"{'type': 'Point', 'coordinates': [39.57587445446343, 2.6486116647720337]}",Vegan,Mallorca
+2,Sabor Vegan Culinary Academy,39.57387362978236,2.653283807045242,"{'type': 'Point', 'coordinates': [39.57387362978236, 2.653283807045242]}",Vegan,Mallorca
+3,LoVegano,39.57294406832292,2.6380256461803793,"{'type': 'Point', 'coordinates': [39.57294406832292, 2.6380256461803793]}",Vegan,Mallorca
+5,100% Mexicano Vegano,39.593426,2.6198688,"{'type': 'Point', 'coordinates': [39.593426, 2.6198688]}",Vegan,Mallorca
+6,Villa Vegana,39.65239244027836,2.624197250452141,"{'type': 'Point', 'coordinates': [39.65239244027836, 2.624197250452141]}",Vegan,Mallorca
+7,Donna Vegana,39.49667,2.475299,"{'type': 'Point', 'coordinates': [39.49667, 2.475299]}",Vegan,Mallorca
+0,happy  kids escoleta infantil,39.58030264991082,2.659505835895499,"{'type': 'Point', 'coordinates': [39.58030264991082, 2.659505835895499]}",Nursery,Mallorca
+1,Escoleta Infantil Petit Angelet,39.585272081,2.662080323,"{'type': 'Point', 'coordinates': [39.585272081, 2.662080323]}",Nursery,Mallorca
+2,Escoleta Pessigolles,39.579509,2.649002,"{'type': 'Point', 'coordinates': [39.579509, 2.649002]}",Nursery,Mallorca
+3,Escoleta Lluís Vives,39.583655,2.645341,"{'type': 'Point', 'coordinates': [39.583655, 2.645341]}",Nursery,Mallorca
+4,Escoleta Municipal Son Espanyolet,39.577373488456885,2.635369190192873,"{'type': 'Point', 'coordinates': [39.577373488456885, 2.635369190192873]}",Nursery,Mallorca
+5,Escoleta S'estel,39.574601,2.650914,"{'type': 'Point', 'coordinates': [39.574601, 2.650914]}",Nursery,Mallorca
+6,Escoleta Dumbo,39.5728704,2.6321031,"{'type': 'Point', 'coordinates': [39.5728704, 2.6321031]}",Nursery,Mallorca
+7,Escoleta Koala,39.58312042836639,2.6486917734700155,"{'type': 'Point', 'coordinates': [39.58312042836639, 2.6486917734700155]}",Nursery,Mallorca
+8,Escoleta D'infants Ciutat Antiga,39.56753,2.656535,"{'type': 'Point', 'coordinates': [39.56753, 2.656535]}",Nursery,Mallorca
+9,Escoleta Mil Somnis Per Contar,39.5872284,2.6847838,"{'type': 'Point', 'coordinates': [39.5872284, 2.6847838]}",Nursery,Mallorca
+10,Escoleta Sa Miloca,39.57167506073271,2.662719358878121,"{'type': 'Point', 'coordinates': [39.57167506073271, 2.662719358878121]}",Nursery,Mallorca
+11,Escoleta Sa Lluna,39.56567766289521,2.661722300462231,"{'type': 'Point', 'coordinates': [39.56567766289521, 2.661722300462231]}",Nursery,Mallorca
+12,Escoleta Burotatxo,39.59054022254315,2.6503306945461853,"{'type': 'Point', 'coordinates': [39.59054022254315, 2.6503306945461853]}",Nursery,Mallorca
+13,Guardería infantil La Sirenita,39.578328,2.6311567,"{'type': 'Point', 'coordinates': [39.578328, 2.6311567]}",Nursery,Mallorca
+14,Escoleta Municipal Ca Alonso,39.584362664028575,2.6569554395413832,"{'type': 'Point', 'coordinates': [39.584362664028575, 2.6569554395413832]}",Nursery,Mallorca
+15,Escoleta Peter Pan,39.588822,2.679061,"{'type': 'Point', 'coordinates': [39.588822, 2.679061]}",Nursery,Mallorca
+16,Escoleta Cavallets De Mar,39.59659673308155,2.6770124641405815,"{'type': 'Point', 'coordinates': [39.59659673308155, 2.6770124641405815]}",Nursery,Mallorca
+17,Escoleta Asima,39.60547512648329,2.6641134840762724,"{'type': 'Point', 'coordinates': [39.60547512648329, 2.6641134840762724]}",Nursery,Mallorca
+18,Escoleta Koala,39.60836620272853,2.6616204474879175,"{'type': 'Point', 'coordinates': [39.60836620272853, 2.6616204474879175]}",Nursery,Mallorca
+19,Escoleta d'infants Menudets,39.55307088366945,2.6923270405591966,"{'type': 'Point', 'coordinates': [39.55307088366945, 2.6923270405591966]}",Nursery,Mallorca
+20,Escoleta,39.574554408726186,2.703971117734909,"{'type': 'Point', 'coordinates': [39.574554408726186, 2.703971117734909]}",Nursery,Mallorca
+21,ma&ma Moda Infantil,39.577668,2.6408705,"{'type': 'Point', 'coordinates': [39.577668, 2.6408705]}",Nursery,Mallorca
+22,Parc Infantil Dalt Murada,39.56723852363935,2.6469947264910316,"{'type': 'Point', 'coordinates': [39.56723852363935, 2.6469947264910316]}",Nursery,Mallorca
+23,Escoleta El Pont D'Inca Nou,39.60545395904666,2.697515528258987,"{'type': 'Point', 'coordinates': [39.60545395904666, 2.697515528258987]}",Nursery,Mallorca
+24,Zona infantil,39.5676780201289,2.6206160111200933,"{'type': 'Point', 'coordinates': [39.5676780201289, 2.6206160111200933]}",Nursery,Mallorca
+25,Escola Infantil Mi Casita,39.587453115,2.659155493,"{'type': 'Point', 'coordinates': [39.587453115, 2.659155493]}",Nursery,Mallorca
+26,Pisa Pisuela Palma Centro - Calzado Infantil,39.57005241922688,2.6501297950744624,"{'type': 'Point', 'coordinates': [39.57005241922688, 2.6501297950744624]}",Nursery,Mallorca
+27,Teringa,39.577579,2.6416,"{'type': 'Point', 'coordinates': [39.577579, 2.6416]}",Nursery,Mallorca
+28,Escuela Infantil Cocoliso,39.574943629,2.661215566,"{'type': 'Point', 'coordinates': [39.574943629, 2.661215566]}",Nursery,Mallorca
+29,Escoleta Jardines de Infancia,39.62694509254525,2.622767629340646,"{'type': 'Point', 'coordinates': [39.62694509254525, 2.622767629340646]}",Nursery,Mallorca

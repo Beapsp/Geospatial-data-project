@@ -1,0 +1,21 @@
+,nombre,latitud,longitud,location,categoria,ciudad
+0,Aeropuerto de Salamanca-Matacán (SLM),40.94017220282839,-5.502113981972948,"{'type': 'Point', 'coordinates': [40.94017220282839, -5.502113981972948]}",Airport,Salamanca
+0,O'haras's irish pub,40.96601,-5.663938,"{'type': 'Point', 'coordinates': [40.96601, -5.663938]}",Disco,Salamanca
+1,King's Pub,40.967073,-5.663044,"{'type': 'Point', 'coordinates': [40.967073, -5.663044]}",Disco,Salamanca
+2,Tee Pub,40.96711301075625,-5.66274462835484,"{'type': 'Point', 'coordinates': [40.96711301075625, -5.66274462835484]}",Disco,Salamanca
+3,Pub Monumental,40.968881660658376,-5.663795471191406,"{'type': 'Point', 'coordinates': [40.968881660658376, -5.663795471191406]}",Disco,Salamanca
+4,Oharas irish pub,40.96585589708964,-5.664116006614261,"{'type': 'Point', 'coordinates': [40.96585589708964, -5.664116006614261]}",Disco,Salamanca
+5,The Liverpool Pub,40.96402364388889,-5.662056383089544,"{'type': 'Point', 'coordinates': [40.96402364388889, -5.662056383089544]}",Disco,Salamanca
+6,London Pub,40.96358340898263,-5.662153959274292,"{'type': 'Point', 'coordinates': [40.96358340898263, -5.662153959274292]}",Disco,Salamanca
+7,Pub Baretto,40.9686222,-5.6577572,"{'type': 'Point', 'coordinates': [40.9686222, -5.6577572]}",Disco,Salamanca
+8,Peter's Pub,40.962919854538676,-5.6619742050858815,"{'type': 'Point', 'coordinates': [40.962919854538676, -5.6619742050858815]}",Disco,Salamanca
+9,Palafox pub cafe,40.970105969134984,-5.6623799600894165,"{'type': 'Point', 'coordinates': [40.970105969134984, -5.6623799600894165]}",Disco,Salamanca
+10,Pub Monumental,40.97283622081143,-5.667231010884938,"{'type': 'Point', 'coordinates': [40.97283622081143, -5.667231010884938]}",Disco,Salamanca
+11,Pub Gotas,40.9765,-5.66323,"{'type': 'Point', 'coordinates': [40.9765, -5.66323]}",Disco,Salamanca
+12,Plan B,40.967730995650605,-5.666304114192668,"{'type': 'Point', 'coordinates': [40.967730995650605, -5.666304114192668]}",Disco,Salamanca
+13,Pubeer,40.96774875245904,-5.666309250690691,"{'type': 'Point', 'coordinates': [40.96774875245904, -5.666309250690691]}",Disco,Salamanca
+14,Gatsby,40.96596497644346,-5.666510387616019,"{'type': 'Point', 'coordinates': [40.96596497644346, -5.666510387616019]}",Disco,Salamanca
+0,269 Gastro Vegan,40.967159,-5.665964,"{'type': 'Point', 'coordinates': [40.967159, -5.665964]}",Vegan,Salamanca
+0,Guardería British Bubbles,40.970825866502224,-5.665715932846069,"{'type': 'Point', 'coordinates': [40.970825866502224, -5.665715932846069]}",Nursery,Salamanca
+1,Guarderia Simba,40.97041856127861,-5.667228691023867,"{'type': 'Point', 'coordinates': [40.97041856127861, -5.667228691023867]}",Nursery,Salamanca
+2,Guardería Cari,40.952194782,-5.627497142,"{'type': 'Point', 'coordinates': [40.952194782, -5.627497142]}",Nursery,Salamanca
